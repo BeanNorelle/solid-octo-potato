@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\console app - T3.exe
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\console app - T3.deps.json
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\console app - T3.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\console app - T3.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\console app - T3.dll
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\ref\console app - T3.dll
+D:\Bean - Files\Visual Test\c#\console app - T3\bin\Debug\net5.0\console app - T3.pdb
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.dll
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\ref\console app - T3.dll
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.pdb
+D:\Bean - Files\Visual Test\c#\console app - T3\obj\Debug\net5.0\console app - T3.genruntimeconfig.cache
