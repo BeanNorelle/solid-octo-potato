@@ -24,7 +24,7 @@ namespace console_app___T3
                 case 7: return new Position(0,0);
                 case 8: return new Position(0,1);
                 case 9: return new Position(0,2);
-                default: return null;
+                default: Console.WriteLine("Invalid move"); return null;
             }
         }
 

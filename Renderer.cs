@@ -5,6 +5,7 @@ namespace console_app___T3{
     {
             public void Render(Board board)
         {
+            Console.Clear();
             char[,] symbols = new char[3, 3];
             for (int row = 0; row < 3; row++)
                 for (int column = 0; column < 3; column++)
@@ -32,6 +33,7 @@ namespace console_app___T3{
                 case State.X:
                 Console.WriteLine(SymbolFor(winner) + " Wins!");
                 break;
+
                 case State.Undecided:
                 Console.WriteLine("Draw!");
                 break;
